@@ -1,0 +1,53 @@
+def find_x(x, tree):
+    if not contains(x, tree):
+        return None
+    result = str(tree)
+    def helper(x, tree):
+        for i in range(len(tree)):
+            if contains(x, tree[i]):
+                if tree[i] == x:
+                    return "[" + str(i) + "]"
+                else:
+                    return "[" + str(i) + "]" + helper(x, tree[i])
+    return result + helper(x, tree)
+        
+            
+            
+
+def contains(x, tree):
+    if tree == []:
+        return 0
+    elif type(tree) != list:
+        if tree == x:
+            return 1
+        else:
+            return 0
+    else:
+        return contains(x, tree[0]) + contains(x, tree[1:])
+    
+#print(find_x(5, [1, 3, [4, [5, 6], 3]]))
+
+def cannibal(c, m):
+    if m == 0:
+        if c > 2:
+            return ((2,0), (1, 0)) + cannibal(c-1, m)
+        else:
+            return ((c, 0), )
+            
+    if c > m or c >= 4:
+        return False
+    if c + m <= 2:
+        return ((c, m), )
+    
+    elif (m - c) >= 2:
+        return ((0,2), (0, 1)) + cannibal(c, m-1)
+    elif (m - c) == 1:
+        return ((1, 1), (1, 0)) + cannibal(c, m-1)
+    elif m == c and m == 2:
+        return ((2, 0), (1, 0), (0, 2), (1, 0), (2, 0))
+    else:
+        return ((2, 0), (1, 0), (2, 0), (1, 0), (0, 2), (1, 1), (0, 2), (1, 0), (2, 0), (1, 0), (2, 0))
+    
+#print(cannibal(5, 0))
+        
+        

@@ -1,0 +1,419 @@
+"year","university","school","degree","variable","value"
+2013,"Nanyang Technological University","dummy","Accountancy and Business","employment_rate_overall",97.4
+2013,"Nanyang Technological University","dummy","Accountancy (3-yr direct Honours Programme)","employment_rate_overall",97.1
+2013,"Nanyang Technological University","dummy","Business (3-yr direct Honours Programme)","employment_rate_overall",90.9
+2013,"Nanyang Technological University","dummy","Business and Computing","employment_rate_overall",87.5
+2013,"Nanyang Technological University","dummy","Aerospace Engineering","employment_rate_overall",95.3
+2013,"Nanyang Technological University","dummy","Bioengineering","employment_rate_overall",81.3
+2013,"Nanyang Technological University","dummy","Chemical and Biomolecular Engineering","employment_rate_overall",87.3
+2013,"Nanyang Technological University","dummy","Computer Engineering","employment_rate_overall",90.3
+2013,"Nanyang Technological University","dummy","Civil Engineering","employment_rate_overall",94.8
+2013,"Nanyang Technological University","dummy","Computer Science","employment_rate_overall",92.1
+2013,"Nanyang Technological University","dummy","Electrical and Electronic Engineering","employment_rate_overall",91
+2013,"Nanyang Technological University","dummy","Environmental Engineering","employment_rate_overall",84
+2013,"Nanyang Technological University","dummy","Information Engineering and Media","employment_rate_overall",85.7
+2013,"Nanyang Technological University","dummy","Materials Engineering","employment_rate_overall",82.5
+2013,"Nanyang Technological University","dummy","Mechanical Engineering","employment_rate_overall",91.6
+2013,"Nanyang Technological University","dummy","Maritime Studies","employment_rate_overall",95.6
+2013,"Nanyang Technological University","dummy","Art, Design & Media","employment_rate_overall",81.6
+2013,"Nanyang Technological University","dummy","Chinese","employment_rate_overall",85.1
+2013,"Nanyang Technological University","dummy","Communication Studies","employment_rate_overall",89.4
+2013,"Nanyang Technological University","dummy","Economics","employment_rate_overall",89.9
+2013,"Nanyang Technological University","dummy","English","employment_rate_overall",82.7
+2013,"Nanyang Technological University","dummy","Linguistics and Multilingual Studies","employment_rate_overall",90.6
+2013,"Nanyang Technological University","dummy","Psychology","employment_rate_overall",82.4
+2013,"Nanyang Technological University","dummy","Sociology","employment_rate_overall",74.4
+2013,"Nanyang Technological University","dummy","Biological Sciences","employment_rate_overall",78.6
+2013,"Nanyang Technological University","dummy","Chemistry & Biological Chemistry","employment_rate_overall",79.8
+2013,"Nanyang Technological University","dummy","Mathematical Science","employment_rate_overall",86
+2013,"Nanyang Technological University","dummy","Physics / Applied Physics","employment_rate_overall",80.8
+2014,"Nanyang Technological University","dummy","Accountancy and Business","employment_rate_overall",98.2
+2014,"Nanyang Technological University","dummy","Accountancy (3-yr direct Honours Programme)","employment_rate_overall",96.6
+2014,"Nanyang Technological University","dummy","Business (3-yr direct Honours Programme)","employment_rate_overall",89.6
+2014,"Nanyang Technological University","dummy","Business and Computing","employment_rate_overall",92.9
+2014,"Nanyang Technological University","dummy","Aerospace Engineering","employment_rate_overall",84.6
+2014,"Nanyang Technological University","dummy","Bioengineering","employment_rate_overall",79.8
+2014,"Nanyang Technological University","dummy","Chemical and Biomolecular Engineering","employment_rate_overall",83.8
+2014,"Nanyang Technological University","dummy","Computer Engineering","employment_rate_overall",91.4
+2014,"Nanyang Technological University","dummy","Civil Engineering","employment_rate_overall",93.8
+2014,"Nanyang Technological University","dummy","Computer Science","employment_rate_overall",94.5
+2014,"Nanyang Technological University","dummy","Electrical and Electronic Engineering","employment_rate_overall",90.7
+2014,"Nanyang Technological University","dummy","Environmental Engineering","employment_rate_overall",88.9
+2014,"Nanyang Technological University","dummy","Information Engineering and Media","employment_rate_overall",85.7
+2014,"Nanyang Technological University","dummy","Mechanical Engineering","employment_rate_overall",90.2
+2014,"Nanyang Technological University","dummy","Maritime Studies","employment_rate_overall",92.5
+2014,"Nanyang Technological University","dummy","Art, Design & Media","employment_rate_overall",80
+2014,"Nanyang Technological University","dummy","Chinese","employment_rate_overall",86.8
+2014,"Nanyang Technological University","dummy","Communication Studies","employment_rate_overall",86.7
+2014,"Nanyang Technological University","dummy","Economics","employment_rate_overall",88.7
+2014,"Nanyang Technological University","dummy","English","employment_rate_overall",87
+2014,"Nanyang Technological University","dummy","Linguistics and Multilingual Studies","employment_rate_overall",85.7
+2014,"Nanyang Technological University","dummy","Psychology","employment_rate_overall",66.7
+2014,"Nanyang Technological University","dummy","Biological Sciences","employment_rate_overall",75.1
+2014,"Nanyang Technological University","dummy","Chemistry & Biological Chemistry","employment_rate_overall",80.5
+2014,"Nanyang Technological University","dummy","Mathematics & Economics","employment_rate_overall",88.4
+2014,"Nanyang Technological University","dummy","Mathematical Science","employment_rate_overall",91.3
+2014,"Nanyang Technological University","dummy","Physics / Applied Physics","employment_rate_overall",73.7
+2014,"Singapore Institute of Technology","dummy","Bachelor of Arts in Game Design","employment_rate_overall",100
+2014,"Singapore Institute of Technology","dummy","Bachelor of Fine Arts in Digital Arts & Animation","employment_rate_overall",90.6
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science in Computer Science & Game Design","employment_rate_overall",100
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science in Computer Science in Real-Time Interactive Simulation","employment_rate_overall",100
+2014,"Singapore Institute of Technology","dummy","Bachelor of Arts with Honours in Communication Design","employment_rate_overall",89.1
+2014,"Singapore Institute of Technology","dummy","Bachelor of Arts with Honours in Interior Design","employment_rate_overall",93.9
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Chemical Engineering","employment_rate_overall",90.1
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Marine Engineering","employment_rate_overall",92.6
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Mechanical Design & Manufacturing Engineering","employment_rate_overall",97.1
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Naval Architecture","employment_rate_overall",100
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Offshore Engineering","employment_rate_overall",91.3
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science with Honours in Food & Human Nutrition","employment_rate_overall",75
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science in Chemical Engineering","employment_rate_overall",86.7
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science in Electrical Engineering & Information Technology","employment_rate_overall",85.7
+2014,"Singapore Institute of Technology","dummy","Bachelor in Science (Physiotherapy)","employment_rate_overall",100
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Aerospace Systems","employment_rate_overall",85.7
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Mechanical Design Engineering","employment_rate_overall",92.3
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Mechatronics","employment_rate_overall",93
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science with Honours in Nursing Practice","employment_rate_overall",97.2
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science in Early Childhood Education","employment_rate_overall",97.1
+2015,"Nanyang Technological University","dummy","Accountancy and Business","employment_rate_overall",98.6
+2015,"Nanyang Technological University","dummy","Accountancy (3-yr direct Honours Programme)","employment_rate_overall",97.3
+2015,"Nanyang Technological University","dummy","Business (3-yr direct Honours Programme)","employment_rate_overall",92.2
+2015,"Nanyang Technological University","dummy","Business and Computing","employment_rate_overall",100
+2015,"Nanyang Technological University","dummy","Aerospace Engineering","employment_rate_overall",86
+2015,"Nanyang Technological University","dummy","Bioengineering","employment_rate_overall",92.6
+2015,"Nanyang Technological University","dummy","Chemical And Biomolecular Engineering","employment_rate_overall",86.8
+2015,"Nanyang Technological University","dummy","Computer Engineering","employment_rate_overall",85.1
+2015,"Nanyang Technological University","dummy","Civil Engineering","employment_rate_overall",95.3
+2015,"Nanyang Technological University","dummy","Computer Science","employment_rate_overall",92.4
+2015,"Nanyang Technological University","dummy","Electrical And Electronic Engineering","employment_rate_overall",88.6
+2015,"Nanyang Technological University","dummy","Environmental Engineering","employment_rate_overall",89.7
+2015,"Nanyang Technological University","dummy","Information Engineering And Media","employment_rate_overall",87.3
+2015,"Nanyang Technological University","dummy","Materials Engineering","employment_rate_overall",82.9
+2015,"Nanyang Technological University","dummy","Mechanical Engineering","employment_rate_overall",88
+2015,"Nanyang Technological University","dummy","Maritime Studies","employment_rate_overall",95
+2015,"Nanyang Technological University","dummy","Art, Design & Media","employment_rate_overall",79.3
+2015,"Nanyang Technological University","dummy","Chinese","employment_rate_overall",81.8
+2015,"Nanyang Technological University","dummy","Communication Studies","employment_rate_overall",85.1
+2015,"Nanyang Technological University","dummy","Economics","employment_rate_overall",87.4
+2015,"Nanyang Technological University","dummy","English","employment_rate_overall",88
+2015,"Nanyang Technological University","dummy","Linguistics And Multilingual Studies","employment_rate_overall",88.4
+2015,"Nanyang Technological University","dummy","Psychology","employment_rate_overall",73.3
+2015,"Nanyang Technological University","dummy","Sociology","employment_rate_overall",85.7
+2015,"Nanyang Technological University","dummy","Biological Sciences","employment_rate_overall",74.6
+2015,"Nanyang Technological University","dummy","Chemistry & Biological Chemistry","employment_rate_overall",83.9
+2015,"Nanyang Technological University","dummy","Mathematics & Economics","employment_rate_overall",95.3
+2015,"Nanyang Technological University","dummy","Mathematical Science","employment_rate_overall",81.8
+2016,"National University of Singapore","dummy","Bachelor of Arts","employment_rate_overall",85.8
+2016,"National University of Singapore","dummy","Bachelor of Arts (Hons)","employment_rate_overall",88.2
+2016,"National University of Singapore","dummy","Bachelor of Social Sciences","employment_rate_overall",88.3
+2016,"National University of Singapore","dummy","Dental Surgery","employment_rate_overall",100
+2016,"National University of Singapore","dummy","Bachelor of Engineering (Biomedical Engineering)","employment_rate_overall",90.6
+2016,"National University of Singapore","dummy","Engineering (Chemical Engineering)","employment_rate_overall",87.8
+2016,"National University of Singapore","dummy","Engineering (Civil Engineering)","employment_rate_overall",95.5
+2016,"National University of Singapore","dummy","Bachelor of Engineering (Electrical Engineering)","employment_rate_overall",89.4
+2016,"National University of Singapore","dummy","Engineering (Engineering Science)","employment_rate_overall",76.5
+2016,"National University of Singapore","dummy","Engineering (Environmental Engineering)","employment_rate_overall",86.3
+2016,"National University of Singapore","dummy","Engineering (Industrial and Systems)","employment_rate_overall",93.3
+2016,"National University of Singapore","dummy","Engineering (Materials Science and Engineering)","employment_rate_overall",94
+2016,"National University of Singapore","dummy","Engineering (Mechanical Engineering)","employment_rate_overall",87.3
+2016,"National University of Singapore","dummy","Bachelor of Laws (L.L.B) (Hons)","employment_rate_overall",95.8
+2016,"National University of Singapore","dummy","Bachelor of Applied Science (Hons)","employment_rate_overall",82.1
+2016,"National University of Singapore","dummy","Bachelor of Science","employment_rate_overall",76.9
+2016,"National University of Singapore","dummy","Bachelor of Science (Hons)","employment_rate_overall",85.9
+2016,"National University of Singapore","dummy","Bachelor of Science (Pharmacy)(Hons)","employment_rate_overall",99.1
+2016,"National University of Singapore","dummy","Bachelor of Business Administration","employment_rate_overall",94.9
+2016,"National University of Singapore","dummy","Bachelor of Business Administration (Hons)","employment_rate_overall",98.2
+2016,"National University of Singapore","dummy","Bachelor of Business Administration (Accountancy)","employment_rate_overall",97.2
+2016,"National University of Singapore","dummy","Bachelor of Business Administration (Accountancy) (Hons)","employment_rate_overall",100
+2016,"National University of Singapore","dummy","Bachelor of Computing (Computer Science)","employment_rate_overall",93.5
+2016,"National University of Singapore","dummy","Bachelor of Computing (Information","employment_rate_overall",94.5
+2016,"National University of Singapore","dummy","Bachelor of Science (Business Analytics)","employment_rate_overall",97.6
+2016,"National University of Singapore","dummy","Bachelor of Arts (Architecture)","employment_rate_overall",91.3
+2016,"National University of Singapore","dummy","Bachelor of Arts (Industrial Design)","employment_rate_overall",93.3
+2016,"National University of Singapore","dummy","Bachelor of Science (Project and Facilities","employment_rate_overall",90.8
+2016,"National University of Singapore","dummy","Bachelor of Science (Real Estate)","employment_rate_overall",93.8
+2016,"National University of Singapore","dummy","Bachelor of Medicine and Bachelor Of Surgery","employment_rate_overall",100
+2016,"National University of Singapore","dummy","Bachelor of Science (Nursing)","employment_rate_overall",97.4
+2016,"National University of Singapore","dummy","Bachelor of Science (Nursing) (Hons)","employment_rate_overall",91.8
+2016,"National University of Singapore","dummy","Bachelor of Music","employment_rate_overall",73.3
+2016,"National University of Singapore","dummy","Yale-NUS College - Bachelor of Arts with Honours","employment_rate_overall",93.5
+2016,"National University of Singapore","dummy","Yale-NUS College -Bachelor of Science with Honours","employment_rate_overall",91.7
+2016,"National University of Singapore","dummy","Bachelor of Engineering (Computer Engineering)","employment_rate_overall",89.4
+2016,"National University of Singapore","dummy","Bachelor of Environmental Studies","employment_rate_overall",88.7
+2016,"Nanyang Technological University","dummy","Accountancy","employment_rate_overall",97.1
+2016,"Nanyang Technological University","dummy","Accountancy and Business","employment_rate_overall",97.2
+2016,"Nanyang Technological University","dummy","Business","employment_rate_overall",93
+2016,"Nanyang Technological University","dummy","Business and Engineering","employment_rate_overall",100
+2016,"Nanyang Technological University","dummy","Aerospace Engineering","employment_rate_overall",80
+2016,"Nanyang Technological University","dummy","Bioengineering","employment_rate_overall",78.3
+2016,"Nanyang Technological University","dummy","Chemical and Biomolecular Engineering","employment_rate_overall",82.3
+2016,"Nanyang Technological University","dummy","Civil Engineering","employment_rate_overall",98.5
+2016,"Nanyang Technological University","dummy","Computer Engineering","employment_rate_overall",95.1
+2016,"Nanyang Technological University","dummy","Computer Science","employment_rate_overall",92.4
+2016,"Nanyang Technological University","dummy","Electrical and Electronic Engineering","employment_rate_overall",89.3
+2016,"Nanyang Technological University","dummy","Environmental Engineering","employment_rate_overall",71.8
+2016,"Nanyang Technological University","dummy","Information Engineering and Media","employment_rate_overall",86.9
+2016,"Nanyang Technological University","dummy","Maritime Studies","employment_rate_overall",92.2
+2016,"Nanyang Technological University","dummy","Materials Engineering","employment_rate_overall",84.9
+2016,"Nanyang Technological University","dummy","Mechanical Engineering","employment_rate_overall",82.7
+2016,"Nanyang Technological University","dummy","Fine Arts (Hons)","employment_rate_overall",88.5
+2016,"Nanyang Technological University","dummy","Arts (Hons) in Chinese","employment_rate_overall",84.6
+2016,"Nanyang Technological University","dummy","Communication Studies","employment_rate_overall",92.6
+2016,"Nanyang Technological University","dummy","Economics","employment_rate_overall",84.7
+2016,"Nanyang Technological University","dummy","English","employment_rate_overall",77.8
+2016,"Nanyang Technological University","dummy","History","employment_rate_overall",86
+2016,"Nanyang Technological University","dummy","Linguistics And Multilingual Studies","employment_rate_overall",80
+2016,"Nanyang Technological University","dummy","Psychology","employment_rate_overall",78.9
+2016,"Nanyang Technological University","dummy","Public Policy And Global Affairs","employment_rate_overall",74.1
+2016,"Nanyang Technological University","dummy","Sociology","employment_rate_overall",77.6
+2016,"Nanyang Technological University","dummy","Biomedical Sciences & Chinese Medicine","employment_rate_overall",92
+2016,"Nanyang Technological University","dummy","Biological Sciences","employment_rate_overall",80.4
+2016,"Nanyang Technological University","dummy","Chemistry & Biological Chemistry","employment_rate_overall",70.1
+2016,"Nanyang Technological University","dummy","Mathematical Sciences","employment_rate_overall",89.7
+2016,"Nanyang Technological University","dummy","Mathematics & Economics","employment_rate_overall",89.8
+2016,"Nanyang Technological University","dummy","Physics / Applied Physics","employment_rate_overall",81.6
+2016,"Nanyang Technological University","dummy","Sports Science and Management","employment_rate_overall",81.1
+2016,"Nanyang Technological University","dummy","Arts (with Education)","employment_rate_overall",100
+2016,"Nanyang Technological University","dummy","Science (with Education)","employment_rate_overall",100
+2016,"Singapore Management University","dummy","Accountancy","employment_rate_overall",98
+2016,"Singapore Management University","dummy","Cum Laude and above","employment_rate_overall",97.8
+2016,"Singapore Management University","dummy","Business Management","employment_rate_overall",93.3
+2016,"Singapore Management University","dummy","Economics","employment_rate_overall",91.3
+2016,"Singapore Management University","dummy","Information Systems Management","employment_rate_overall",95.1
+2016,"Singapore Management University","dummy","Social Sciences","employment_rate_overall",91.3
+2016,"Singapore Management University","dummy","Law","employment_rate_overall",97.6
+2016,"Singapore Institute of Technology","dummy","Bachelor of Fine Arts in Digital Arts & Animation","employment_rate_overall",73.3
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science in Computer Science & Game Design","employment_rate_overall",85.7
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science in Computer Science in Real-Time Interactive Simulation","employment_rate_overall",100
+2016,"Singapore Institute of Technology","dummy","Bachelor of Arts with Honours in Communication Design","employment_rate_overall",91.1
+2016,"Singapore Institute of Technology","dummy","Bachelor of Arts with Honours in Interior Design","employment_rate_overall",97.4
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Electrical Power Engineering","employment_rate_overall",86.4
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Marine Engineering","employment_rate_overall",95.2
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Mechanical Design & Manufacturing Engineering","employment_rate_overall",87
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Offshore Engineering","employment_rate_overall",86.4
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science with Honours in Food & Human Nutrition","employment_rate_overall",86.7
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science in Chemical Engineering","employment_rate_overall",78.6
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science in Electrical Engineering & Information Technology","employment_rate_overall",90.9
+2016,"Singapore Institute of Technology","dummy","Bachelor of Professional Studies in Culinary Arts Management","employment_rate_overall",86.2
+2016,"Singapore Institute of Technology","dummy","Bachelor in Science (Diagnostic Radiography)","employment_rate_overall",88.2
+2016,"Singapore Institute of Technology","dummy","Bachelor in Science (Occupational Therapy)","employment_rate_overall",100
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Aeronautical Engineering","employment_rate_overall",81.6
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Aerospace Systems","employment_rate_overall",82.2
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Mechanical Design Engineering","employment_rate_overall",87
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Mechatronics","employment_rate_overall",88.7
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science with Honours in Computing Science","employment_rate_overall",89.8
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science with Honours in Nursing Practice","employment_rate_overall",92.7
+2016,"Singapore Institute of Technology","dummy","Bachelor of Arts with Honours in Criminology and Security","employment_rate_overall",92.6
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science in Early Childhood Education","employment_rate_overall",98
+2016,"SUTD","dummy","Bachelor of Engineering (Engineering Product Development)","employment_rate_overall",89.9
+2016,"SUTD","dummy","Bachelor of Engineering (Information Systems Technology and Design)","employment_rate_overall",100
+2016,"SUTD","dummy","Bachelor of Engineering (Engineering Systems and Design)","employment_rate_overall",91.7
+2013,"Nanyang Technological University","dummy","Accountancy and Business","basic_monthly_median",3200
+2013,"Nanyang Technological University","dummy","Accountancy (3-yr direct Honours Programme)","basic_monthly_median",2700
+2013,"Nanyang Technological University","dummy","Business (3-yr direct Honours Programme)","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Business and Computing","basic_monthly_median",3400
+2013,"Nanyang Technological University","dummy","Aerospace Engineering","basic_monthly_median",3500
+2013,"Nanyang Technological University","dummy","Bioengineering","basic_monthly_median",2900
+2013,"Nanyang Technological University","dummy","Chemical and Biomolecular Engineering","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Computer Engineering","basic_monthly_median",3100
+2013,"Nanyang Technological University","dummy","Civil Engineering","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Computer Science","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Electrical and Electronic Engineering","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Environmental Engineering","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Information Engineering and Media","basic_monthly_median",3150
+2013,"Nanyang Technological University","dummy","Materials Engineering","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Mechanical Engineering","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Maritime Studies","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Art, Design & Media","basic_monthly_median",2500
+2013,"Nanyang Technological University","dummy","Chinese","basic_monthly_median",2800
+2013,"Nanyang Technological University","dummy","Communication Studies","basic_monthly_median",2930
+2013,"Nanyang Technological University","dummy","Economics","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","English","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Linguistics and Multilingual Studies","basic_monthly_median",2600
+2013,"Nanyang Technological University","dummy","Psychology","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Sociology","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Biological Sciences","basic_monthly_median",2900
+2013,"Nanyang Technological University","dummy","Chemistry & Biological Chemistry","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Mathematical Science","basic_monthly_median",3000
+2013,"Nanyang Technological University","dummy","Physics / Applied Physics","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Accountancy and Business","basic_monthly_median",3300
+2014,"Nanyang Technological University","dummy","Accountancy (3-yr direct Honours Programme)","basic_monthly_median",2800
+2014,"Nanyang Technological University","dummy","Business (3-yr direct Honours Programme)","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Business and Computing","basic_monthly_median",3400
+2014,"Nanyang Technological University","dummy","Aerospace Engineering","basic_monthly_median",3700
+2014,"Nanyang Technological University","dummy","Bioengineering","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Chemical and Biomolecular Engineering","basic_monthly_median",3250
+2014,"Nanyang Technological University","dummy","Computer Engineering","basic_monthly_median",3300
+2014,"Nanyang Technological University","dummy","Civil Engineering","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Computer Science","basic_monthly_median",3200
+2014,"Nanyang Technological University","dummy","Electrical and Electronic Engineering","basic_monthly_median",3175
+2014,"Nanyang Technological University","dummy","Environmental Engineering","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Information Engineering and Media","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Materials Engineering","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Mechanical Engineering","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Maritime Studies","basic_monthly_median",3050
+2014,"Nanyang Technological University","dummy","Art, Design & Media","basic_monthly_median",2600
+2014,"Nanyang Technological University","dummy","Chinese","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Communication Studies","basic_monthly_median",2800
+2014,"Nanyang Technological University","dummy","Economics","basic_monthly_median",3075
+2014,"Nanyang Technological University","dummy","English","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Linguistics and Multilingual Studies","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Psychology","basic_monthly_median",3100
+2014,"Nanyang Technological University","dummy","Sociology","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Biological Sciences","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Chemistry & Biological Chemistry","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Mathematics & Economics","basic_monthly_median",3200
+2014,"Nanyang Technological University","dummy","Mathematical Science","basic_monthly_median",3000
+2014,"Nanyang Technological University","dummy","Physics / Applied Physics","basic_monthly_median",3000
+2014,"Singapore Institute of Technology","dummy","Bachelor of Arts in Game Design","basic_monthly_median",2700
+2014,"Singapore Institute of Technology","dummy","Bachelor of Fine Arts in Digital Arts & Animation","basic_monthly_median",2600
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science in Computer Science & Game Design","basic_monthly_median",2875
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science in Computer Science in Real-Time Interactive Simulation","basic_monthly_median",3000
+2014,"Singapore Institute of Technology","dummy","Bachelor of Arts with Honours in Communication Design","basic_monthly_median",2500
+2014,"Singapore Institute of Technology","dummy","Bachelor of Arts with Honours in Interior Design","basic_monthly_median",2500
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Chemical Engineering","basic_monthly_median",3000
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Marine Engineering","basic_monthly_median",3100
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Mechanical Design & Manufacturing Engineering","basic_monthly_median",3000
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Naval Architecture","basic_monthly_median",3355
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Offshore Engineering","basic_monthly_median",3200
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science with Honours in Food & Human Nutrition","basic_monthly_median",2750
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science in Chemical Engineering","basic_monthly_median",2900
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science in Electrical Engineering & Information Technology","basic_monthly_median",2900
+2014,"Singapore Institute of Technology","dummy","Bachelor in Science (Physiotherapy)","basic_monthly_median",3200
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Aerospace Systems","basic_monthly_median",3100
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Mechanical Design Engineering","basic_monthly_median",3000
+2014,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Mechatronics","basic_monthly_median",3050
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science with Honours in Nursing Practice","basic_monthly_median",3260
+2014,"Singapore Institute of Technology","dummy","Bachelor of Science in Early Childhood Education","basic_monthly_median",2600
+2015,"Nanyang Technological University","dummy","Accountancy and Business","basic_monthly_median",3500
+2015,"Nanyang Technological University","dummy","Accountancy (3-yr direct Honours Programme)","basic_monthly_median",2850
+2015,"Nanyang Technological University","dummy","Business (3-yr direct Honours Programme)","basic_monthly_median",3100
+2015,"Nanyang Technological University","dummy","Business and Computing","basic_monthly_median",4184
+2015,"Nanyang Technological University","dummy","Aerospace Engineering","basic_monthly_median",3650
+2015,"Nanyang Technological University","dummy","Bioengineering","basic_monthly_median",3000
+2015,"Nanyang Technological University","dummy","Chemical And Biomolecular Engineering","basic_monthly_median",3100
+2015,"Nanyang Technological University","dummy","Computer Engineering","basic_monthly_median",3350
+2015,"Nanyang Technological University","dummy","Civil Engineering","basic_monthly_median",3100
+2015,"Nanyang Technological University","dummy","Computer Science","basic_monthly_median",3300
+2015,"Nanyang Technological University","dummy","Electrical And Electronic Engineering","basic_monthly_median",3200
+2015,"Nanyang Technological University","dummy","Environmental Engineering","basic_monthly_median",3200
+2015,"Nanyang Technological University","dummy","Information Engineering And Media","basic_monthly_median",3200
+2015,"Nanyang Technological University","dummy","Materials Engineering","basic_monthly_median",3100
+2015,"Nanyang Technological University","dummy","Mechanical Engineering","basic_monthly_median",3200
+2015,"Nanyang Technological University","dummy","Maritime Studies","basic_monthly_median",3200
+2015,"Nanyang Technological University","dummy","Art, Design & Media","basic_monthly_median",2800
+2015,"Nanyang Technological University","dummy","Chinese","basic_monthly_median",3000
+2015,"Nanyang Technological University","dummy","Communication Studies","basic_monthly_median",2900
+2015,"Nanyang Technological University","dummy","Economics","basic_monthly_median",3200
+2015,"Nanyang Technological University","dummy","English","basic_monthly_median",3000
+2015,"Nanyang Technological University","dummy","Linguistics And Multilingual Studies","basic_monthly_median",3000
+2015,"Nanyang Technological University","dummy","Psychology","basic_monthly_median",3121
+2015,"Nanyang Technological University","dummy","Sociology","basic_monthly_median",3000
+2015,"Nanyang Technological University","dummy","Chemistry & Biological Chemistry","basic_monthly_median",2900
+2015,"Nanyang Technological University","dummy","Mathematics & Economics","basic_monthly_median",3000
+2015,"Nanyang Technological University","dummy","Mathematical Science","basic_monthly_median",3125
+2015,"Nanyang Technological University","dummy","Physics / Applied Physics","basic_monthly_median",3000
+2016,"National University of Singapore","dummy","Bachelor of Arts","basic_monthly_median",3000
+2016,"National University of Singapore","dummy","Bachelor of Arts (Hons)","basic_monthly_median",3360
+2016,"National University of Singapore","dummy","Bachelor of Social Sciences","basic_monthly_median",3300
+2016,"National University of Singapore","dummy","Dental Surgery","basic_monthly_median",4050
+2016,"National University of Singapore","dummy","Bachelor of Engineering (Biomedical Engineering)","basic_monthly_median",3300
+2016,"National University of Singapore","dummy","Engineering (Chemical Engineering)","basic_monthly_median",3600
+2016,"National University of Singapore","dummy","Engineering (Civil Engineering)","basic_monthly_median",3300
+2016,"National University of Singapore","dummy","Bachelor of Engineering (Electrical Engineering)","basic_monthly_median",3600
+2016,"National University of Singapore","dummy","Engineering (Engineering Science)","basic_monthly_median",3675
+2016,"National University of Singapore","dummy","Engineering (Environmental Engineering)","basic_monthly_median",3350
+2016,"National University of Singapore","dummy","Engineering (Industrial and Systems)","basic_monthly_median",3875
+2016,"National University of Singapore","dummy","Engineering (Materials Science and Engineering)","basic_monthly_median",3388
+2016,"National University of Singapore","dummy","Engineering (Mechanical Engineering)","basic_monthly_median",3450
+2016,"National University of Singapore","dummy","Bachelor of Laws (L.L.B) (Hons)","basic_monthly_median",5000
+2016,"National University of Singapore","dummy","Bachelor of Applied Science (Hons)","basic_monthly_median",3085
+2016,"National University of Singapore","dummy","Bachelor of Science","basic_monthly_median",3082
+2016,"National University of Singapore","dummy","Bachelor of Science (Hons)","basic_monthly_median",3300
+2016,"National University of Singapore","dummy","Bachelor of Science (Pharmacy)(Hons)","basic_monthly_median",3600
+2016,"National University of Singapore","dummy","Bachelor of Business Administration","basic_monthly_median",3500
+2016,"National University of Singapore","dummy","Bachelor of Business Administration (Hons)","basic_monthly_median",3800
+2016,"National University of Singapore","dummy","Bachelor of Business Administration (Accountancy)","basic_monthly_median",3025
+2016,"National University of Singapore","dummy","Bachelor of Business Administration (Accountancy) (Hons)","basic_monthly_median",3125
+2016,"National University of Singapore","dummy","Bachelor of Computing (Information","basic_monthly_median",4000
+2016,"National University of Singapore","dummy","Bachelor of Science (Business Analytics)","basic_monthly_median",4000
+2016,"National University of Singapore","dummy","Bachelor of Arts (Architecture)","basic_monthly_median",4000
+2016,"National University of Singapore","dummy","Bachelor of Arts (Industrial Design)","basic_monthly_median",2920
+2016,"National University of Singapore","dummy","Bachelor of Science (Project and Facilities","basic_monthly_median",3000
+2016,"National University of Singapore","dummy","Bachelor of Science (Real Estate)","basic_monthly_median",3000
+2016,"National University of Singapore","dummy","Bachelor of Medicine and Bachelor Of Surgery","basic_monthly_median",5000
+2016,"National University of Singapore","dummy","Bachelor of Science (Nursing)","basic_monthly_median",3400
+2016,"National University of Singapore","dummy","Bachelor of Science (Nursing) (Hons)","basic_monthly_median",3500
+2016,"National University of Singapore","dummy","Bachelor of Music","basic_monthly_median",2225
+2016,"National University of Singapore","dummy","Yale-NUS College - Bachelor of Arts with Honours","basic_monthly_median",3500
+2016,"National University of Singapore","dummy","Yale-NUS College -Bachelor of Science with Honours","basic_monthly_median",4083
+2016,"National University of Singapore","dummy","Bachelor of Engineering (Computer Engineering)","basic_monthly_median",3900
+2016,"National University of Singapore","dummy","Bachelor of Environmental Studies","basic_monthly_median",3300
+2016,"Nanyang Technological University","dummy","Accountancy","basic_monthly_median",3000
+2016,"Nanyang Technological University","dummy","Accountancy and Business","basic_monthly_median",3600
+2016,"Nanyang Technological University","dummy","Business","basic_monthly_median",3300
+2016,"Nanyang Technological University","dummy","Business and Engineering","basic_monthly_median",5000
+2016,"Nanyang Technological University","dummy","Aerospace Engineering","basic_monthly_median",3500
+2016,"Nanyang Technological University","dummy","Bioengineering","basic_monthly_median",3419
+2016,"Nanyang Technological University","dummy","Chemical and Biomolecular Engineering","basic_monthly_median",3500
+2016,"Nanyang Technological University","dummy","Civil Engineering","basic_monthly_median",3400
+2016,"Nanyang Technological University","dummy","Computer Engineering","basic_monthly_median",3600
+2016,"Nanyang Technological University","dummy","Computer Science","basic_monthly_median",3850
+2016,"Nanyang Technological University","dummy","Electrical and Electronic Engineering","basic_monthly_median",3600
+2016,"Nanyang Technological University","dummy","Environmental Engineering","basic_monthly_median",3635
+2016,"Nanyang Technological University","dummy","Information Engineering and Media","basic_monthly_median",3700
+2016,"Nanyang Technological University","dummy","Maritime Studies","basic_monthly_median",3320
+2016,"Nanyang Technological University","dummy","Mechanical Engineering","basic_monthly_median",3450
+2016,"Nanyang Technological University","dummy","Fine Arts (Hons)","basic_monthly_median",2800
+2016,"Nanyang Technological University","dummy","Arts (Hons) in Chinese","basic_monthly_median",3300
+2016,"Nanyang Technological University","dummy","Communication Studies","basic_monthly_median",3000
+2016,"Nanyang Technological University","dummy","Economics","basic_monthly_median",3200
+2016,"Nanyang Technological University","dummy","English","basic_monthly_median",3000
+2016,"Nanyang Technological University","dummy","History","basic_monthly_median",3200
+2016,"Nanyang Technological University","dummy","Linguistics And Multilingual Studies","basic_monthly_median",3100
+2016,"Nanyang Technological University","dummy","Psychology","basic_monthly_median",3200
+2016,"Nanyang Technological University","dummy","Public Policy And Global Affairs","basic_monthly_median",3395
+2016,"Nanyang Technological University","dummy","Sociology","basic_monthly_median",3228
+2016,"Nanyang Technological University","dummy","Biomedical Sciences & Chinese Medicine","basic_monthly_median",2950
+2016,"Nanyang Technological University","dummy","Biological Sciences","basic_monthly_median",3200
+2016,"Nanyang Technological University","dummy","Chemistry & Biological Chemistry","basic_monthly_median",3100
+2016,"Nanyang Technological University","dummy","Mathematical Sciences","basic_monthly_median",3500
+2016,"Nanyang Technological University","dummy","Mathematics & Economics","basic_monthly_median",3400
+2016,"Nanyang Technological University","dummy","Physics / Applied Physics","basic_monthly_median",3300
+2016,"Nanyang Technological University","dummy","Sports Science and Management","basic_monthly_median",3450
+2016,"Nanyang Technological University","dummy","Arts (with Education)","basic_monthly_median",3600
+2016,"Nanyang Technological University","dummy","Science (with Education)","basic_monthly_median",3701
+2016,"Singapore Management University","dummy","Accountancy","basic_monthly_median",3000
+2016,"Singapore Management University","dummy","Cum Laude and above","basic_monthly_median",3200
+2016,"Singapore Management University","dummy","Business Management","basic_monthly_median",3500
+2016,"Singapore Management University","dummy","Economics","basic_monthly_median",3700
+2016,"Singapore Management University","dummy","Information Systems Management","basic_monthly_median",4000
+2016,"Singapore Management University","dummy","Social Sciences","basic_monthly_median",3300
+2016,"Singapore Management University","dummy","Law","basic_monthly_median",5000
+2016,"Singapore Institute of Technology","dummy","Bachelor of Fine Arts in Digital Arts & Animation","basic_monthly_median",3000
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science in Computer Science & Game Design","basic_monthly_median",3400
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science in Computer Science in Real-Time Interactive Simulation","basic_monthly_median",4000
+2016,"Singapore Institute of Technology","dummy","Bachelor of Arts with Honours in Communication Design","basic_monthly_median",2600
+2016,"Singapore Institute of Technology","dummy","Bachelor of Arts with Honours in Interior Design","basic_monthly_median",2515
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Chemical Engineering","basic_monthly_median",3300
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Electrical Power Engineering","basic_monthly_median",3200
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Marine Engineering","basic_monthly_median",3840
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Mechanical Design & Manufacturing Engineering","basic_monthly_median",3200
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Naval Architecture","basic_monthly_median",3300
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Offshore Engineering","basic_monthly_median",3430
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science in Chemical Engineering","basic_monthly_median",3130
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science in Electrical Engineering & Information Technology","basic_monthly_median",3000
+2016,"Singapore Institute of Technology","dummy","Bachelor of Professional Studies in Culinary Arts Management","basic_monthly_median",2300
+2016,"Singapore Institute of Technology","dummy","Bachelor in Science (Diagnostic Radiography)","basic_monthly_median",3660
+2016,"Singapore Institute of Technology","dummy","Bachelor in Science (Occupational Therapy)","basic_monthly_median",3200
+2016,"Singapore Institute of Technology","dummy","Bachelor in Science (Physiotherapy)","basic_monthly_median",3300
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Aeronautical Engineering","basic_monthly_median",3200
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Aerospace Systems","basic_monthly_median",3275
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Mechanical Design Engineering","basic_monthly_median",3200
+2016,"Singapore Institute of Technology","dummy","Bachelor of Engineering with Honours in Mechatronics","basic_monthly_median",3300
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science with Honours in Computing Science","basic_monthly_median",3600
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science with Honours in Nursing Practice","basic_monthly_median",3600
+2016,"Singapore Institute of Technology","dummy","Bachelor of Arts with Honours in Criminology and Security","basic_monthly_median",4200
+2016,"Singapore Institute of Technology","dummy","Bachelor of Science in Early Childhood Education","basic_monthly_median",2700
+2016,"SUTD","dummy","Bachelor of Engineering (Engineering Product Development)","basic_monthly_median",3600
+2016,"SUTD","dummy","Bachelor of Engineering (Information Systems Technology and Design)","basic_monthly_median",4023
+2016,"SUTD","dummy","Bachelor of Engineering (Engineering Systems and Design)","basic_monthly_median",3850

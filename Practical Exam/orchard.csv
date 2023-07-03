@@ -1,0 +1,13 @@
+JOIN,Nassim Road,Tomlinson A,Tanglin Road,
+JOIN,Tomlinson B,Tomlinson A,Cuscaden Road,
+JOIN,Tanglin Road,Cuscaden Road,Orange Grove Road,Orchard Road A
+JOIN,Orchard Road A,Orchard Road B,Angullia Park,
+JOIN,Angullia Park,Orchard Blvd A,,
+JOIN,Orchard Blvd A,Orchard Blvd B,Tomlinson B,
+JOIN,Orchard Road B,Scotts Road,Paterson Road,
+BUILDING,Gleneagles Hospital,Nassim Road,,
+BUILDING,St Regis,Cuscaden Road,,
+BUILDING,Four Seasons,Orchard Blvd A,,
+BUILDING,M&S,Orchard Road B,,
+BUILDING,Marriot,Scotts Road,,
+BUILDING,Shangri La,Orange Grove Road,,
